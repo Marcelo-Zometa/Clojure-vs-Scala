@@ -1,1 +1,9 @@
-Hello
+(defn main []
+    (def footballField 109.7)
+    (println "Welcome. This program will tell you the length of a thing but measured in football fields.\n")
+    (println "So, what do you want to measure?\n")
+    (let )
+)
+
+(main)
+
